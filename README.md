@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### my name is Jyoti 
+
+### 🔭 I’m currently working on some cool react projects to practice my react skills.
+
+### 🌱 I’m currently learning nodejs
+
+### 📫 How to reach me: 
+- :email: jyotip99755@email.com
+- ☑️Twitter: [jyotipatil771000](https://twitter.com/jyotipatil77100)

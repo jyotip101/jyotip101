@@ -1,4 +1,4 @@
-### Hi there 👋
+## <p  align= end>  Hi there 👋</p>
 
 <!--
 **jyotip101/jyotip101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### my name is Jyoti 
+### <p  align= end> My name is Jyoti </p>
 
 ### 🔭 I’m currently working on some cool react projects to practice my react skills.
 

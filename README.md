@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: 
 - :email: jyotip99755@email.com
-- ☑️Twitter: [jyotipatil771000](https://twitter.com/jyotipatil77100)
+- ☑️Twitter: [thejyotipatel](https://twitter.com/thejyotipatel)
 <!-- - portfolio: [jyoti-p](https://jyotip101.github.io/portfolio-master-in-react/) -->

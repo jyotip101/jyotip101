@@ -28,4 +28,7 @@ Javascript, HTML, CSS... -->
  :email: jyotip99755@email.com
  
  [![twitter](https://img.shields.io/badge/@thejyotipatel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejyotipatel/)
-<!-- - portfolio: [jyoti-p](https://jyotip101.github.io/portfolio-master-in-react/) -->
+
+[![🕸](https://img.shields.io/badge/portfolio-1DA1F2?style=for-the-badge&logo=🕸&logoColor=white)](https://jyotip101.github.io/portfolio-master-in-react/) 
+
+ 

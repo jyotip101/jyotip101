@@ -1,4 +1,4 @@
-# Hello, I'm Jyoti! 👋
+# Hi there, I'm Jyoti! 👋
 
 <!--
 **jyotip101/jyotip101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-## 🔭 I’m currently working on some cool React Stack projects to practice my react skills. 
+## 🔭 I'm currently working on some exciting React stack projects to sharpen my React skills.
 
 <!-- ## 🛠 Skills
 Javascript, HTML, CSS... -->

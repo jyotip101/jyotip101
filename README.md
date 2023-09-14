@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-## 🔭 I’m currently working on some cool MEARN Stack projects to practice my react skills. 
+## 🔭 I’m currently working on some cool React Stack projects to practice my react skills. 
 
 <!-- ## 🛠 Skills
 Javascript, HTML, CSS... -->

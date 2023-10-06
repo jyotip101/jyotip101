@@ -1,6 +1,6 @@
-# Hi there, I'm Jyoti! 👋
+## Hello, I'm Jyoti 👋
 
-
+a software developer. I'm passionate about creating innovative solutions and constantly expanding my knowledge in the field.
 
 <!--
 **jyotip101/jyotip101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-
-## 🔭 I'm currently working on some exciting React stack projects to sharpen my React skills.
-
+ 
 
 <!-- ## 🛠 Skills
 Javascript, HTML, CSS... -->
 
-
-## 📫 How to reach me: 
-
+ 
  :email: jyotip99755@email.com
  
  [![twitter](https://img.shields.io/badge/@thejyotipatel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejyotipatel/)

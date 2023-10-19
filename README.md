@@ -1,6 +1,5 @@
-## Hello, I'm Jyoti 👋
-
-a software developer. I'm passionate about creating innovative solutions and constantly expanding my knowledge in the field.
+## Hi there, I'm Jyoti 👋
+a software developer. I love coming up with cool ideas and always learning new stuff in the tech world.
 
 <!--
 **jyotip101/jyotip101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +23,7 @@ Javascript, HTML, CSS... -->
  
  :email: jyotip99755@email.com
  
- [![twitter](https://img.shields.io/badge/@thejyotipatel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejyotipatel/)
+ [![twitter](https://img.shields.io/badge/@thejyotipatel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejyotipatel/) 
  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-patel-352b921a2/)
+

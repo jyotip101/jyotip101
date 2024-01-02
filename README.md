@@ -1,4 +1,9 @@
-## Hi there, I'm Jyoti 👋
+## Hi there, I'm Jyoti 👋,
+
+a passionate software developer. I thrive on crafting innovative ideas and constantly expanding my knowledge in the ever-evolving tech realm. 
+Let's code the future together!
+
+<!--
 a software developer. I love coming up with cool ideas and always learning new stuff in the tech world.
 
 <!--

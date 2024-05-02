@@ -28,7 +28,7 @@ Javascript, HTML, CSS... -->
  
  :email: jyotip99755@email.com
  
- [![twitter](https://img.shields.io/badge/@thejyotipatel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejyotipatel/) 
+ <!--[![twitter](https://img.shields.io/badge/@thejyotipatel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thejyotipatel/) 
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejyotipatel/)
-
+-->
